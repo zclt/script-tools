@@ -1,0 +1,22 @@
+{
+  "name": "@zclt/github-cli",
+  "version": "1.0.0",
+  "description": "GitHub API CLI — query repos, issues, PRs, and commits",
+  "bin": {
+    "github": ".claude/commands/github.js"
+  },
+  "files": [
+    ".claude/commands/github.js",
+    ".claude/commands/github.md"
+  ],
+  "engines": {
+    "node": ">=18"
+  },
+  "keywords": [
+    "github",
+    "cli",
+    "api"
+  ],
+  "author": "Matheus Zucolotto",
+  "license": "MIT"
+}
