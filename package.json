@@ -1,6 +1,6 @@
 {
   "name": "@zclt/github-cli",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "GitHub API CLI — query repos, issues, PRs, and commits",
   "bin": {
     "github": ".claude/commands/github.js"
